@@ -5,7 +5,7 @@ A practical, front-end restaurant website project built using **HTML**, **CSS**,
 ## 🌐 Live Preview
 
 > Coming Soon — Deploy with GitHub Pages or Netlify for a live demo!
-
+https://github.com/user-attachments/assets/0dac3043-dd85-4aaa-8375-f0a47c861671
 ---
 
 ## 📁 Project Structure
